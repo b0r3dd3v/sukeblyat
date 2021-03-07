@@ -13,4 +13,4 @@ Uses [pantsu api](https://nyaa.pantsu.cat/apidoc/) now, should stay working for 
 Report devs d0x if u want them fixed.
 
 [Totally cherryboya]
-Author of this repo 2! encourage bots 22 pantsu. Remember good robots 2! wear pantsu.
+But nobody is sleeping with you tonight. С днём советской ебанавтики, мавры111
