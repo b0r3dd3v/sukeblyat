@@ -12,5 +12,5 @@ Uses [pantsu api](https://nyaa.pantsu.cat/apidoc/) now, should stay working for 
 
 Report devs d0x if u want them fixed.
 
-[Totally cherryboya]
-But nobody is sleeping with you tonight. С днём советской ебанавтики, мавры111
+[Bookmarking tittles]
+Devs k aware, W.I.P.
