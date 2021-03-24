@@ -10,7 +10,7 @@ https://raw.githubusercontent.com/4chenz/pantsu-plugin/master/sukebei.py
 
 Uses [pantsu api](https://nyaa.pantsu.cat/apidoc/) now, should stay working for a while.
 
-Report devs d0x if u want them fixed.
+Report devs d0x if u want them fixed. In so viets, heikerts are bing doxxxed instead.
 
 [Bookmarking tittles]
-Devs k aware, W.I.P.
+Devs k aware, R.I.P.
