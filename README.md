@@ -14,3 +14,5 @@ Report devs d0x if u want them fixed. In so viets, heikerts are bing doxxxed ins
 
 [Bookmarking tittles]
 Devs k aware, R.I.P.
+
+Хотели мангу, а съели чангу.
